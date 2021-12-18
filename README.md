@@ -9,4 +9,4 @@ o Lecturer
 
 o TA (Teaching Assistant)
 
-<This repo contains Ghada & Asrar & Wafa  attempts to solve the project problem>
+<This repo contains Ghada & Asrar & Wafa & Athear attempts to solve the project problem>
